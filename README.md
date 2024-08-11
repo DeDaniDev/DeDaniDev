@@ -1,4 +1,4 @@
-[![34.png](https://i.postimg.cc/nrhHPzvt/34.png)](https://postimg.cc/7Gj8CqsB) Hola, mi nombre es Daniel Alba 👋
+[![34.png](https://i.postimg.cc/nrhHPzvt/34.png)](https://postimg.cc/7Gj8CqsB)   Hola, mi nombre es Daniel Alba 👋
 ### Freelance Frontend
 
 
