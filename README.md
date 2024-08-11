@@ -2,9 +2,7 @@
 ### Freelance Frontend
 
 
-[![YouTube Channel Subscribers])]()
-[![Twitch Status]()]()
-![GitHub Followers]()
+
 
 Soy estudiando de programacion Frontend desde 2022.
 
