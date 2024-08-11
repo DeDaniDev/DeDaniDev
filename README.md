@@ -4,7 +4,7 @@
 
 
 
-Soy estudiando de programacion Frontend desde 2022.
+Soy estudiante de programacion Frontend desde el 2022.
 
 💻 Soy un apasionado estudiante de programación, con un enfoque claro en el desarrollo frontend. Desde hace un año, me he dedicado a dominar las tecnologías esenciales del frontend, como HTML, CSS y JavaScript, que me permiten crear interfaces web 🌐 que no solo son estéticamente atractivas, sino también altamente funcionales y orientadas a ofrecer una excelente experiencia de usuario.
 
