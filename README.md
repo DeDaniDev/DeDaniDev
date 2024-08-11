@@ -2,9 +2,9 @@
 ### Freelance Frontend
 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)]()
-[![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)]()
-![GitHub Followers](https://img.shields.io/github/followers/mouredev?style=social)
+[![YouTube Channel Subscribers])]()
+[![Twitch Status]()]()
+![GitHub Followers]()
 
 Soy estudiando de programacion Frontend desde 2022.
 
